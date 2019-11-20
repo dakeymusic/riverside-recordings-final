@@ -4,12 +4,17 @@ html {
   color: #222;
   font-size: 1em;
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-display:block;
   margin:0;
   padding:0;
   scroll-behavior: smooth;
   height:100%;
 }
+
+@font-face {
+      
+      font-display: block;
+      
+  }
 
 body{
   background-color:rgb(17, 17, 17);
