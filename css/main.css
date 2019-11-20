@@ -4,7 +4,7 @@ html {
   color: #222;
   font-size: 1em;
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-display:swap;
+  font-display:block;
   margin:0;
   padding:0;
   scroll-behavior: smooth;
