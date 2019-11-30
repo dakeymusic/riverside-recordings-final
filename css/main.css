@@ -2,8 +2,8 @@
 
 html {
   color: #222;
-  
-  
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 1em;
   margin:0;
   padding:0;
   scroll-behavior: smooth;
@@ -11,10 +11,8 @@ html {
 }
 
 @font-face {
-      font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-      font-display: block;
-      font-size: 1em;
-      font-display: swap;
+      
+    
   }
 
 body{
