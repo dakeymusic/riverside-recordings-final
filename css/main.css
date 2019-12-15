@@ -81,7 +81,7 @@ h1, h2{
 
 
 #home-container{
-  background-image:url(./img/vinyl.jpg);
+  background-image:url(../img/vinyl.jpg);
   background-size: cover;
   background-attachment: fixed;
   width:auto;
@@ -394,7 +394,7 @@ h1, h2{
   text-align:center;
 }
 #quotePage{
-  background-image:url(/img/clients-quotePic.jpg);
+  background-image:url(../img/clients-quotePic.jpg);
   filter:grayscale(100);
   background-size:cover;
   background-position:bottom;
