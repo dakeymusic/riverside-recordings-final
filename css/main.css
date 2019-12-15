@@ -81,7 +81,7 @@ h1, h2{
 
 
 #home-container{
-  background-image:url(img/vinyl.jpg);
+  background-image:url(.img/vinyl.jpg);
   background-size: cover;
   background-attachment: fixed;
   width:auto;
