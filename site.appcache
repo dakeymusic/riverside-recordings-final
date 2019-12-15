@@ -1,0 +1,34 @@
+CACHE MANIFEST
+
+#version 2.0
+
+#Explicit cachade entiteter
+
+index.html
+js/plugins.js
+analytics.js
+css/normalize.css
+css/main.css
+
+#Extra resurser till cachen
+
+CACHE:
+img/slider_1_resize.png
+img/vinyl.jpg
+img/mixer-board.jpg
+img/mixer-table2.jpg
+img/analogue-mixertable.jpg
+img/room-vibe.jpg
+img/Studio.jpg
+img/soundcard.jpg
+img/analogue-mixer.jpg
+img/rr-logo.png
+
+
+#Filer som listas i denna del kan komma från nätverket om de inte befinner sig i cachen,
+nätverket används inte annars om även om användaren är online.
+Man kan "white" lista URL:er eller använda *, vilket tillåter alla URL:er.
+De flesta sidor behöver *.
+
+NETWORK:
+*
